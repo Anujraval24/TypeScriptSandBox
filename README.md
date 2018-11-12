@@ -10,3 +10,5 @@ TypeScript_Basics-Practice
 [NPM TypeScript](https://www.npmjs.com/package/typescript)
 
 `npm install -g typescript`
+
+Original [Auth Application](https://github.com/Anujraval24/Auth-App.git) in NodeJS
